@@ -1,0 +1,17 @@
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\bin\Release\net8.0\Cs2 External.exe
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\bin\Release\net8.0\Cs2 External.deps.json
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\bin\Release\net8.0\Cs2 External.runtimeconfig.json
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\bin\Release\net8.0\Cs2 External.dll
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\bin\Release\net8.0\Cs2 External.pdb
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\bin\Release\net8.0\swed64.dll
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\Cs2 External.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\Cs2 External.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\Cs2 External.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\Cs2 External.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\Cs2 External.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\Cs2 External.csproj.CopyComplete
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\Cs2 External.dll
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\refint\Cs2 External.dll
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\Cs2 External.pdb
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\Cs2 External.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Desktop\Cs2 External\obj\Release\net8.0\ref\Cs2 External.dll

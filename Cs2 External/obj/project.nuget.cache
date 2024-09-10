@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWcPIZ606i3J9czmrvWb36WoZ6wUQjPWe9GPxDd5ZhW/1UZCOlAlgbnpslDLQmresqzMhtBzIwKiObdbhTTuxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\OneDrive\\Desktop\\Cs2 External\\Cs2 External.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\swed64\\1.0.5\\swed64.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
